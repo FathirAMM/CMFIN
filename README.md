@@ -19,13 +19,13 @@ This project is a full-stack web application built with React.js for the fronten
 1. Clone the repository:
 
     ```
-    git clone https://github.com/FathirAMM/Code_Crawlers/
+    git clone https://github.com/FathirAMM/CMFIN/
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd Code_Crawlers-main
+    cd CMFIN-main
     ```
 
 3. Install frontend dependencies:
@@ -57,11 +57,11 @@ This project is a full-stack web application built with React.js for the fronten
 
     ```
     cd ..
-    cd newfolder
+    cd frontend
     npm start
     ```
 
-3. Access the application in your web browser at `http://localhost:3000`.
+3. Access the application in your web browser at `http://localhost:8080`.
 
 ## Configuration
 

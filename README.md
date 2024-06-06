@@ -83,4 +83,4 @@ Special thanks to the creators and contributors of React.js and Flask for provid
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact us at [email@example.com](mailto:email@example.com).
+For any inquiries or feedback, feel free to contact us at [email@example.com](mailto:celestialminds12345@outlook.com).
